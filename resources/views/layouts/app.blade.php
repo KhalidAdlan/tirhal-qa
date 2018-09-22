@@ -28,7 +28,7 @@
             <div class="container">
               <img class="cropped-img-md" src="{{asset('img/logo.png')}}"></img>
                 <a class="navbar-brand bordered-text" href="{{ url('/') }}">
-                    {{ config('app.name', 'CT Observation') }}
+                    {{ config('app.name', 'Quality Assurance') }}
                 </a>
                 <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="{{ __('Toggle navigation') }}">
                     <span class="navbar-toggler-icon"></span>
