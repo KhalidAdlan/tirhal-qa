@@ -112,7 +112,7 @@ margin-bottom: 50px;
                 </div>
                 <div class="title m-b-md">
 
-                    CT Observation
+                    Quality Assurance
                 </div>
 
 
